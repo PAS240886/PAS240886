@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alex P.
 - 👀 Frontend development is my passion (JavaScript, ReactJS).
-- 💞️ I’m looking for collaboration.
+- 💞️ I’d be glad to work in a team on an interesting project.
 - 📫 How to reach me - email: popov.a.connect@gmail.com
